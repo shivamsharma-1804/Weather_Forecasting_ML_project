@@ -36,6 +36,7 @@ Optimization and Deployment: Optimize the models for better accuracy and computa
 
 # To know more .... 
 Visit the colab link for working model and output :-
+https://colab.research.google.com/drive/10qrbbbND34qRNHcaa9r7AL8TGmyi8dQV?usp=sharing
 
   
 
