@@ -18,3 +18,5 @@ Feature Analysis: Investigate the impact of different features and data preproce
 Optimization and Deployment: Optimize the models for better accuracy and computational efficiency, and explore potential deployment strategies for real-time weather forecasting applications.
 
 # ALGORITHMS USED
+. LINEAR REGRESSION Output
+![image](https://github.com/user-attachments/assets/09c7f239-ce02-4ffb-8f1b-025fc02fad73)
