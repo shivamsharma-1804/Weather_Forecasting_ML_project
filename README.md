@@ -18,5 +18,22 @@ Feature Analysis: Investigate the impact of different features and data preproce
 Optimization and Deployment: Optimize the models for better accuracy and computational efficiency, and explore potential deployment strategies for real-time weather forecasting applications.
 
 # ALGORITHMS USED
-. LINEAR REGRESSION Output
-![image](https://github.com/user-attachments/assets/09c7f239-ce02-4ffb-8f1b-025fc02fad73)
+ 1. LINEAR REGRESSION Output
+   ![image](https://github.com/user-attachments/assets/09c7f239-ce02-4ffb-8f1b-025fc02fad73)
+
+ 2. lOGISTIC REGRESSION Output
+   ![image](https://github.com/user-attachments/assets/04c27cfb-a0e6-4ce6-83bc-aac7e42ec5b4)
+
+ 3. K-Nearest Neighbor Output
+   ![image](https://github.com/user-attachments/assets/1e700019-5e7c-4e21-b47d-6c4aee0f7bbe)
+
+ 4. RANDOM FOREST Output
+   ![image](https://github.com/user-attachments/assets/7b98b28d-aaf9-43d2-8632-042bcbe24552)
+
+ 5. COMPARATIVE ANALYSIS ( Graph )
+    ![image](https://github.com/user-attachments/assets/1cc12111-2fc2-4912-8646-15d920fc1825)
+
+To know more visit the colab link for working model and output :-
+https://colab.research.google.com/drive/1AWZoXgGMzT4Tv3cZABRhS1Xsg7x2D0E-?usp=sharing#scrollTo=RCsmhp7vMEGU
+  
+
